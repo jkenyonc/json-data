@@ -1,0 +1,39 @@
+{
+  "ticketData": [
+    {
+      "id": 1,
+      "title": "Test Ticket",
+      "authorID": 102,
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "title": "Another Complaint",
+      "authorID": 101,
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "title": "Missed My Payment",
+      "authorID": 100,
+      "status": "in-progress"
+    },
+    {
+      "id": 4,
+      "title": "Missed Payment",
+      "authorID": 100,
+      "status": "closed"
+    },
+    {
+      "id": 5,
+      "title": "Yet Another Complaint",
+      "authorID": 101,
+      "status": "pending"
+    }
+  ],
+  "userData": [
+    { "UUID": 100, "name": "Dave" },
+    { "UUID": 101, "name": "Mr. Complainypants" },
+    { "UUID": 102, "name": "Joe Schmoe" }
+  ]
+}
